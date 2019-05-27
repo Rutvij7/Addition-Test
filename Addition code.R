@@ -14,3 +14,5 @@ multi
 ## TYPED IN BIT - TEST - SUB CHECK THE ANS in R
 
 sub = x-y
+sub
+# [1]  9 18 27

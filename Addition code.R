@@ -10,3 +10,7 @@ add
 multi = x*y
 multi
 # [1] 10 40 90
+
+## TYPED IN BIT - TEST - SUB CHECK THE ANS in R
+
+sub = x-y
